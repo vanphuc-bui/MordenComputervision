@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Van-Phuc Bui"
+title: "Blog posts"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at the  Section on Connectivity, Department of Electronic Systems, Aalborg University \
-Aalborg, Denmark
+Blog này nhằm mục đích note lại những thứ đã học
 
 ---
-# Bio
+# [Modern Computer Vision with Pytorch]()
 
-Van-Phuc Bui received the B.Eng. degree (Hons.) in electronics and telecommunications from Ho Chi Minh city University of Technology, Ho Chi Minh, Vietnam, in 2018; and the M.Sc. degree  in wireless communications from Soongsil University, Seoul, South Korea, 2020. \
-He is now pursuing the Ph.D. degree under supervising of [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/).
-His research interest includes wireless communication and satellite communications, with an  emphasis on optimization, machine learning, and edge computing. 
+Blog này cung cấp các thuật toán xử lý ảnh với deep learning sử dụng Pytorch. Blog được viết dựa trên kiến thức sử dụng từ []()
+
+# [Bản chất toán]()
+
+Blog này cung cấp các thuật toán xử lý ảnh với deep learning sử dụng Pytorch. Blog được viết dựa trên kiến thức sử dụng từ []()
 
 ---
 # Contact
 
-* **Van-Phuc Bui** \
+* **Hà Ngọc Tiến** \
 Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
 dia chi noi lam viec
 
-* Emails: vpb [at] es [dot] aau [dot] dk (working) \
-<<<<<<< HEAD
-   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; bvphuc28 [at] gmail [dot] com (personal)
+* **Bùi Văn Phúc** \
+Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
+dia chi noi lam viec
 
-=======
-   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &ensp; bvphuc28 [at] gmail [dot] com (personal)
->>>>>>> 9d0c1bf4e178a0d86924600dcea907314b97ec72
+
