@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://vanphuc-bui.github.io/MordenComputervision/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vanphuc-bui.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Modern computervision with Pytorch"
+  name             : "Van-Phuc Bui"
   avatar           : "profile.png"
-  bio              : "Blog này được thực hiện bởi Hà Ngọc Tiến và Bùi Văn Phúc"
-  location         : #"Aalborg University"
+  bio              : "Ph.D. student in Telecommunication Systems"
+  location         : "Aalborg University"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=EwQEzCsAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=EwQEzCsAAAAJ&hl=en"
   email            :
-  researchgate     : # "https://www.researchgate.net/profile/Van-Phuc-Bui/research"
+  researchgate     :  "https://www.researchgate.net/profile/Van-Phuc-Bui/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -202,6 +202,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
