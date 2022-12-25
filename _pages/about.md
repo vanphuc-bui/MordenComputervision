@@ -11,7 +11,7 @@ redirect_from:
 Blog này nhằm mục đích note lại những thứ đã học
 
 ---
-# [Modern Computer Vision with Pytorch]()
+# [Modern Computer Vision with Pytorch](https://vanphuc-bui.github.io/MordenComputervision//year-archive/)
 
 Blog này cung cấp các thuật toán xử lý ảnh với deep learning sử dụng Pytorch. Blog được viết dựa trên kiến thức sử dụng từ []()
 
