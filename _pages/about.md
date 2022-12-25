@@ -17,7 +17,7 @@ Blog này được thực hiện dựa trên tham khảo từ [đây](https://bo
 
 # [Cách viết Markdown](https://ashki23.github.io/markdown-latex.html#:~:text=We%20can%20use%20LaTeX%20to,a%20double%20%24%20to%20display%20equations)
 ---
-# Contact
+# Contact 
 
 * **Hà Ngọc Tiến** \
 dia chi noi lam viec \
