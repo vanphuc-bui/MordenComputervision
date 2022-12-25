@@ -15,6 +15,7 @@ Chỗ này (nằm ở trang home) giới thiệu về các blogs
 Đây là blog xử lý ảnh sử dụng machine learning và Pytorch \
 Blog này được thực hiện dựa trên tham khảo từ [đây](https://books.google.dk/books?hl=en&lr=&id=GfILEAAAQBAJ&oi=fnd&pg=PP1&dq=modern+computer+vision+with+pytorch&ots=14aGcapVXB&sig=ZZqEK3RntAOau252eq3CchhjBik&redir_esc=y#v=onepage&q=modern%20computer%20vision%20with%20pytorch&f=false)
 
+# [Cách viết Markdown](https://ashki23.github.io/markdown-latex.html#:~:text=We%20can%20use%20LaTeX%20to,a%20double%20%24%20to%20display%20equations)
 ---
 # Contact
 
