@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Blogs"
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   bio              : "Đây là blog về machine learning của Hà Ngọc Tiến và Bùi Văn Phúc"
   location         : "Europe"
   employer         :
