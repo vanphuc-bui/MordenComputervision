@@ -20,7 +20,7 @@ Blog này được thực hiện dựa trên tham khảo từ [đây](https://bo
 # Contact 
 
 * **Hà Ngọc Tiến** \
-dia chi noi lam viec \
+Department of Information and Communication Technology, [University of Agder](https://www.uia.no) \
 Emails: hntien [dot] hcmut [at] gmail [dot] com \
 Website: [tienngocha.github.io](https://tienngocha.github.io/)
 
